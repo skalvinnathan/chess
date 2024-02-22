@@ -1,31 +1,31 @@
-Black,BlackElo,Date,ECO,Event,EventDate,GameNumber,HalfMoves,Moves,Opening,Result,Round,Site,White,WhiteElo
-Steinitz  Wilhelm,0,1886-01-11,D11,World Championship 1st,1886.01.11,1,92,46,Queen's Gambit Declined Slav,Black,1,USA,Zukertort  Johannes H,0
-Zukertort  Johannes H,0,1886-01-13,C47,World Championship 1st,1886.01.11,2,92,46,Four Knights,Black,2,USA,Steinitz  Wilhelm,0
-Steinitz  Wilhelm,0,1886-01-15,D10,World Championship 1st,1886.01.11,3,93,46,Queen's Gambit Declined Slav,White,3,USA,Zukertort  Johannes H,0
-Zukertort  Johannes H,0,1886-01-18,C67,World Championship 1st,1886.01.11,4,78,39,Ruy Lopez,Black,4,USA,Steinitz  Wilhelm,0
-Steinitz  Wilhelm,0,1886-01-20,D10,World Championship 1st,1886.01.11,5,63,31,Queen's Gambit Declined Slav,White,5,USA,Zukertort  Johannes H,0
-Zukertort  Johannes H,0,1886-02-03,C67,World Championship 1st,1886.01.11,6,121,60,Ruy Lopez,White,6,USA,Steinitz  Wilhelm,0
-Steinitz  Wilhelm,0,1886-02-05,D40,World Championship 1st,1886.01.11,7,70,35,"Queen's Gambit Declined, Semi-Tarrasch",Black,7,USA,Zukertort  Johannes H,0
-Zukertort  Johannes H,0,1886-02-08,C67,World Championship 1st,1886.01.11,8,43,21,Ruy Lopez,Draw,8,USA,Steinitz  Wilhelm,0
-Steinitz  Wilhelm,0,1886-02-10,D26,World Championship 1st,1886.01.11,9,76,38,Queen's Gambit Accepted,Black,9,USA,Zukertort  Johannes H,0
-Zukertort  Johannes H,0,1886-02-26,C67,World Championship 1st,1886.01.11,10,42,21,Ruy Lopez,Draw,10,USA,Steinitz  Wilhelm,0
-Steinitz  Wilhelm,0,1886-03-01,C49,World Championship 1st,1886.01.11,11,84,42,Four Knights,Black,11,USA,Zukertort  Johannes H,0
-Zukertort  Johannes H,0,1886-03-03,C67,World Championship 1st,1886.01.11,12,87,43,Ruy Lopez,White,12,USA,Steinitz  Wilhelm,0
-Steinitz  Wilhelm,0,1886-03-05,D26,World Championship 1st,1886.01.11,13,171,85,Queen's Gambit Accepted,White,13,USA,Zukertort  Johannes H,0
-Zukertort  Johannes H,0,1886-03-12,C67,World Championship 1st,1886.01.11,14,96,48,Ruy Lopez,Draw,14,USA,Steinitz  Wilhelm,0
-Steinitz  Wilhelm,0,1886-03-15,D50,World Championship 1st,1886.01.11,15,97,48,Queen's Gambit Declined,Draw,15,USA,Zukertort  Johannes H,0
-Zukertort  Johannes H,0,1886-03-17,C65,World Championship 1st,1886.01.11,16,97,48,"Ruy Lopez, Berlin Defense",White,16,USA,Steinitz  Wilhelm,0
-Steinitz  Wilhelm,0,1886-03-19,D60,World Championship 1st,1886.01.11,17,104,52,"Queen's Gambit Declined, Orthodox Defense",Draw,17,USA,Zukertort  Johannes H,0
-Zukertort  Johannes H,0,1886-03-22,C65,World Championship 1st,1886.01.11,18,79,39,"Ruy Lopez, Berlin Defense",White,18,USA,Steinitz  Wilhelm,0
-Steinitz  Wilhelm,0,1886-03-24,D53,World Championship 1st,1886.01.11,19,58,29,Queen's Gambit Declined,Black,19,USA,Zukertort  Johannes H,0
-Zukertort  Johannes H,0,1886-03-29,C25,World Championship 1st,1886.01.11,20,37,18,Vienna,White,20,USA,Steinitz  Wilhelm,0
-Steinitz  Wilhelm,0,1889-01-20,C52,World Championship 2nd,1889.01.20,21,115,57,Evans Gambit,White,1,Havana CUB,Chigorin  Mikhail I,0
-Chigorin  Mikhail I,0,1889-01-22,D02,World Championship 2nd,1889.01.20,22,75,37,Queen's Pawn Game,White,2,Havana CUB,Steinitz  Wilhelm,0
-Steinitz  Wilhelm,0,1889-01-24,C62,World Championship 2nd,1889.01.20,23,165,82,"Ruy Lopez, Old Steinitz Defense",White,3,Havana CUB,Chigorin  Mikhail I,0
-Chigorin  Mikhail I,0,1889-01-26,D02,World Championship 2nd,1889.01.20,24,43,21,Queen's Pawn Game,White,4,Havana CUB,Steinitz  Wilhelm,0
-Steinitz  Wilhelm,0,1889-01-27,C52,World Championship 2nd,1889.01.20,25,52,26,Evans Gambit,Black,5,Havana CUB,Chigorin  Mikhail I,0
-Chigorin  Mikhail I,0,1889-01-29,D02,World Championship 2nd,1889.01.20,26,74,37,Queen's Pawn Game,Black,6,Havana CUB,Steinitz  Wilhelm,0
-Steinitz  Wilhelm,0,1889-01-31,C52,World Championship 2nd,1889.01.20,27,67,33,Evans Gambit,White,7,Havana CUB,Chigorin  Mikhail I,0
-Chigorin  Mikhail I,0,1889-02-04,D46,World Championship 2nd,1889.01.20,28,75,37,Queen's Gambit Declined Semi-Slav,White,8,Havana CUB,Steinitz  Wilhelm,0
-Steinitz  Wilhelm,0,1889-02-05,C52,World Championship 2nd,1889.01.20,29,112,56,Evans Gambit,Black,9,Havana CUB,Chigorin  Mikhail I,0
-Chigorin  Mikhail I,0,1889-02-08,D07,World Championship 2nd,1889.01.20,30,53,26,"Queen's Gambit Declined, Chigorin Defense",White,10,Havana CUB,Steinitz  Wilhelm,0
+Black,BlackElo,Date,Event,EventDate,GameNumber,Result,Site,White,WhiteElo
+Steinitz  Wilhelm,0,1886-01-11,World Championship 1st,1886.01.11,1,Black,USA,Zukertort  Johannes H,0
+Zukertort  Johannes H,0,1886-01-13,World Championship 1st,1886.01.11,2,Black,USA,Steinitz  Wilhelm,0
+Steinitz  Wilhelm,0,1886-01-15,World Championship 1st,1886.01.11,3,White,USA,Zukertort  Johannes H,0
+Zukertort  Johannes H,0,1886-01-18,World Championship 1st,1886.01.11,4,Black,USA,Steinitz  Wilhelm,0
+Steinitz  Wilhelm,0,1886-01-20,World Championship 1st,1886.01.11,5,White,USA,Zukertort  Johannes H,0
+Zukertort  Johannes H,0,1886-02-03,World Championship 1st,1886.01.11,6,White,USA,Steinitz  Wilhelm,0
+Steinitz  Wilhelm,0,1886-02-05,World Championship 1st,1886.01.11,7,Black,USA,Zukertort  Johannes H,0
+Zukertort  Johannes H,0,1886-02-08,World Championship 1st,1886.01.11,8,Draw,USA,Steinitz  Wilhelm,0
+Steinitz  Wilhelm,0,1886-02-10,World Championship 1st,1886.01.11,9,Black,USA,Zukertort  Johannes H,0
+Zukertort  Johannes H,0,1886-02-26,World Championship 1st,1886.01.11,10,Draw,USA,Steinitz  Wilhelm,0
+Steinitz  Wilhelm,0,1886-03-01,World Championship 1st,1886.01.11,11,Black,USA,Zukertort  Johannes H,0
+Zukertort  Johannes H,0,1886-03-03,World Championship 1st,1886.01.11,12,White,USA,Steinitz  Wilhelm,0
+Steinitz  Wilhelm,0,1886-03-05,World Championship 1st,1886.01.11,13,White,USA,Zukertort  Johannes H,0
+Zukertort  Johannes H,0,1886-03-12,World Championship 1st,1886.01.11,14,Draw,USA,Steinitz  Wilhelm,0
+Steinitz  Wilhelm,0,1886-03-15,World Championship 1st,1886.01.11,15,Draw,USA,Zukertort  Johannes H,0
+Zukertort  Johannes H,0,1886-03-17,World Championship 1st,1886.01.11,16,White,USA,Steinitz  Wilhelm,0
+Steinitz  Wilhelm,0,1886-03-19,World Championship 1st,1886.01.11,17,Draw,USA,Zukertort  Johannes H,0
+Zukertort  Johannes H,0,1886-03-22,World Championship 1st,1886.01.11,18,White,USA,Steinitz  Wilhelm,0
+Steinitz  Wilhelm,0,1886-03-24,World Championship 1st,1886.01.11,19,Black,USA,Zukertort  Johannes H,0
+Zukertort  Johannes H,0,1886-03-29,World Championship 1st,1886.01.11,20,White,USA,Steinitz  Wilhelm,0
+Steinitz  Wilhelm,0,1889-01-20,World Championship 2nd,1889.01.20,21,White,Havana CUB,Chigorin  Mikhail I,0
+Chigorin  Mikhail I,0,1889-01-22,World Championship 2nd,1889.01.20,22,White,Havana CUB,Steinitz  Wilhelm,0
+Steinitz  Wilhelm,0,1889-01-24,World Championship 2nd,1889.01.20,23,White,Havana CUB,Chigorin  Mikhail I,0
+Chigorin  Mikhail I,0,1889-01-26,World Championship 2nd,1889.01.20,24,White,Havana CUB,Steinitz  Wilhelm,0
+Steinitz  Wilhelm,0,1889-01-27,World Championship 2nd,1889.01.20,25,Black,Havana CUB,Chigorin  Mikhail I,0
+Chigorin  Mikhail I,0,1889-01-29,World Championship 2nd,1889.01.20,26,Black,Havana CUB,Steinitz  Wilhelm,0
+Steinitz  Wilhelm,0,1889-01-31,World Championship 2nd,1889.01.20,27,White,Havana CUB,Chigorin  Mikhail I,0
+Chigorin  Mikhail I,0,1889-02-04,World Championship 2nd,1889.01.20,28,White,Havana CUB,Steinitz  Wilhelm,0
+Steinitz  Wilhelm,0,1889-02-05,World Championship 2nd,1889.01.20,29,Black,Havana CUB,Chigorin  Mikhail I,0
+Chigorin  Mikhail I,0,1889-02-08,World Championship 2nd,1889.01.20,30,White,Havana CUB,Steinitz  Wilhelm,0
